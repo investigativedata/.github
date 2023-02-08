@@ -1,3 +1,3 @@
 # investigativedata.io
 
-An open catalogue of data collections useful for investigative journalists and research organizations
+Infrastructure, data catalog and service know-how to support investigative journalists and research organizations
